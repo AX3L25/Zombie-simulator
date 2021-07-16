@@ -1,6 +1,7 @@
-<p align="center"><img src="https://hectorpuche.com/escueladementores/wp-content/uploads/2020/10/24.png" width="150px" height="150px" alt="aventium softworks"></p>
+<p align="center"><img src="https://th.bing.com/th/id/R.038996a89f3697e00aff55d2b4dcc9be?rik=l3DEALODPXMcog&pid=ImgRaw" width="150px" height="150px" alt="aventium softworks"></p>
 
-<h1 align="center">Minecraft classic app</h1>
+<h1 align="center">Zombie simulator</h1>
+<h2 align="center">Dev by me</h1>
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
