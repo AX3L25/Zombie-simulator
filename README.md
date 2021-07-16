@@ -8,8 +8,6 @@
 
 ![Screenshot 1](https://i.imgur.com/dn0loVt.png)
 
-[![Download](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
-
 ## Features
 
 * 💻clic avec ta souris pour tué les zombies (tue le moins possible d'habitants.
