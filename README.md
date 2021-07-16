@@ -9,6 +9,8 @@
 
 ![Screenshot 1](https://i.imgur.com/dn0loVt.png)
 
+<button align="center" src"">Download</button>
+
 ## Features
 
 * 💻clic avec ta souris pour tué les zombies (tue le moins possible d'habitants.
