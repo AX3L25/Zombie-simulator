@@ -1,4 +1,4 @@
-<p align="center"><img src="https://th.bing.com/th/id/R.038996a89f3697e00aff55d2b4dcc9be?rik=l3DEALODPXMcog&pid=ImgRaw" width="2400" height="371" alt="aventium softworks"></p>
+<p align="center"><img src="https://th.bing.com/th/id/R.038996a89f3697e00aff55d2b4dcc9be?rik=l3DEALODPXMcog&pid=ImgRaw" width="2400" height="271" alt="aventium softworks"></p>
 
 <h1 align="center">Zombie simulator</h1>
 <h2 align="center">Dev by me</h1>
