@@ -9,7 +9,7 @@
 
 ![Screenshot 1](https://i.imgur.com/dn0loVt.png)
 
-<button align="center" src"">Download</button>
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/anuraghazra/github-readme-stats)
 
 ## Features
 
