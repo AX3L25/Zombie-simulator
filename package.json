@@ -1,0 +1,22 @@
+{
+  "name": "zombie-simulator",
+  "version": "1.0.0",
+  "description": "Simulateur d'infection de zombie",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron-packager ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "Zombie-simulator"
+  },
+  "author": "AX3L",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.6"
+  },
+  "dependencies": {
+    "discord-rpc": "^4.0.1",
+    "electron-packager": "^15.2.0"
+  }
+}
