@@ -5,7 +5,6 @@
 
 <em><h5 align="center">(formerly Electron Launcher)</h5></em>
 
-<p align="center">Insipirée de cliassic.minecraft.net</p>
 
 ![Screenshot 1](https://i.imgur.com/dn0loVt.png)
 
